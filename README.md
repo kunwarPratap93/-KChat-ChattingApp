@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="frontend/public/banner.png" alt="ChatApp Logo" width="100%" />
+  <!-- <img src="frontend/public/banner.png" alt="ChatApp Logo" width="100%" /> -->
   
   # 💬 KChat - Real-time Messaging
   
@@ -66,9 +66,9 @@
 
 Follow these steps to set up the project locally.
 
-### 1. Clone the repository
+### 1. Clone the repository  
 ```bash
-git clone https://github.com/srv-23/fullstack-chatapp-kchat.git
+git clone https://github.com/kunwarPratap93/-KChat-ChattingApp
 cd fullstack-chatapp-kchat
 ```
 
@@ -181,3 +181,4 @@ Distributed under the ISC License. See `LICENSE` for more information.
 <div align="center">
   <p>Built with ❤️ by <a href="https://github.com/kunwarPratap93">Pratap</a></p>
 </div>
+
